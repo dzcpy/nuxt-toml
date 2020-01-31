@@ -1,0 +1,30 @@
+{
+  "name": "@nuxtjs-extra/toml",
+  "version": "0.0.2",
+  "description": "Adds TOML support to your Nuxt app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzcpy/nuxt-toml.git"
+  },
+  "keywords": [
+    "nuxt",
+    "toml",
+    "toml-loader"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzcpy/nuxt-toml/issues"
+  },
+  "homepage": "https://github.com/dzcpy/nuxt-toml#readme",
+  "dependencies": {
+    "toml-loader": "^1.0.0"
+  },
+  "peerDependencies": {
+    "nuxt": "^2"
+  }
+}
